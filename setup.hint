@@ -1,0 +1,6 @@
+category: Perl
+requires: perl perl-Sub-Uplevel
+sdesc: "Perl exception-based test module"
+ldesc: "This Perl module provides a few convenience methods for testing
+exception based code. It is built with Test::Builder and plays happily
+with Test::More and friends."
